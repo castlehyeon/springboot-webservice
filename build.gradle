@@ -27,4 +27,4 @@ buildscript { //프로젝트의 플러그인 의존성 관리를 위한 설정
         compile ('org.springframework.boot:spring-boot-starter-web')
         testCompile('org.springframework.boot:spring-boot-starter-test')
     }
-
+//TDD 및 단위 테스트 차이점 이해. TDD의 첫 단계인 테스트코드를 작성하는 것이 단위테스트이다. 0703
